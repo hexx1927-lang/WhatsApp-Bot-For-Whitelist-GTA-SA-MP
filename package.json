@@ -1,0 +1,12 @@
+{
+  "name": "wa-whitelist-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@adiwajshing/baileys": "^6.7.8",
+    "basic-ftp": "^5.0.4"
+  }
+}
